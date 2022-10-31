@@ -36,9 +36,10 @@ una tabla es así <br>
 
 y una lista con checks es así <br>
 
--[x] Hacer la practica <br>
--[ ] Subir la memoria <br>
--[ ] Encontrar como sacar el enlace <br>
--[ ] Guardar la practica para evitar imprevistos
+- [x] Hacer la practica <br>
+- [ ] Subir la memoria <br>
+- [ ] Encontrar como sacar el enlace <br>
+- [ ] Guardar la practica para evitar imprevistos
+   
    </body>
 </html>
