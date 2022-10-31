@@ -1,10 +1,11 @@
 <html>
+   
 <head> Indice </head>
-
+<body>
 <h1>encabezado 1 </h1>
 <h4> encabezado 2 </h4>
 
-<font size="8"> texto con otra fuente </font>
+<font size="7"> texto con otra fuente </font>
 
 1. elemento 1 <br>
 2. elemento 2
@@ -39,5 +40,5 @@ y una lista con checks es así <br>
 -[ ] Subir la memoria <br>
 -[ ] Encontrar como sacar el enlace <br>
 -[ ] Guardar la practica para evitar imprevistos
-
+   </body>
 </html>
