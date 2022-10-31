@@ -5,15 +5,14 @@
 <h1>encabezado 1 </h1>
 <h4> encabezado 2 </h4>
 
-<font size="7"> texto con otra fuente </font>
-
+<font face = "Comic Sans"> Texto en otra fuente </font>
 1. elemento 1 <br>
 2. elemento 2
 
 - Elemento 1
 - Elemento 2
 
-`class holaMundo`  <br>
+`class Codigo`  <br>
 `{ `  <br>
    
    ` public static void main(String args[])`  <br>
